@@ -1,2 +1,10 @@
-# data-analysis-portfolio
-Portfolio and selected projects
+# 데이터 분석 포트폴리오
+
+분석에 그치지 않고, 의사결정에 닿는 결과물을 만드는 데이터 분석가 김희원
+
+## Portfolio
+- [포트폴리오 PDF 바로보기](./김희원%20포터.pdf)
+
+## Projects
+- [K-뷰티 글로벌 진출 전략 보고서](./K뷰티_글로벌_진출전략_보고서.pdf)
+- [네이버 쇼핑 텀블러 TOP 50 리뷰 기반 ROI 분석](./네이버%20쇼핑%20텀블러%20TOP%2050%20리뷰%20기반%20ROI%20분석.pdf)
