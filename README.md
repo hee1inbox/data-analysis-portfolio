@@ -8,4 +8,3 @@
 ## Projects
 - [K-뷰티 글로벌 진출 전략 보고서](./K뷰티_글로벌_진출전략_보고서.pdf)
 - [네이버 쇼핑 텀블러 TOP 50 리뷰 기반 ROI 분석](./네이버%20쇼핑%20텀블러%20TOP%2050%20리뷰%20기반%20ROI%20분석.pdf)
-- [K-Beauty Market Intelligence Dashboard](./kbeauty-dashboard) | [▶ 데모 영상]([유튜브 링크](https://youtu.be/rMwcRr-hDgE))
